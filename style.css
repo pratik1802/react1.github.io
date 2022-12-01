@@ -1,0 +1,33 @@
+.one{
+    color: blue;
+    background-color: aqua;
+}
+.three{
+    color:whitesmoke;
+    background-color: black;
+
+}
+body{
+    background-color: rgb(97, 140, 54);
+}
+.four{
+    color: blueviolet;
+    background-color: black;
+    text-align: center;
+}
+.five{
+    color:whitesmoke;
+    background-color: black;
+}
+.Six{
+    color:brown;
+    border:1px solid rebeccapurple;
+    border-radius: 20px;
+    background-color: aqua;
+}
+.seven{
+    border:1px solid red;
+    color: chocolate;
+    text-shadow:10px 10px 10px rebeccapurple;
+    background-color: blue;
+}
